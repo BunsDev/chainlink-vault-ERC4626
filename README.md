@@ -1,11 +1,14 @@
-# Clean up
-- [ ] Figure out CCIP
-- [ ] Deploy and seed Uniswap pool
-- [ ] Connect to Chainlink oracle for price
-- [ ] Refactor Code to fit in CCIP
-- [ ] Create both keepers
-- [ ] Go over below checklist again top to bottom, add in more checks for new contracts
-- [ ] create deploy scripts
+# Tasks To Complete
+- [ ] CCIP Integration (Sid)
+- [ ] Debug Deposit Function (Cormac)
+- [ ] Deploy Scripts for Testing (Cormac)
+- [ ] Connect to Chainlink oracle for price (Cormac)
+- [x] Deploy and seed Uniswap pool (Sid)
+- [ ] CL Automation (Cormac)
+- [ ] Front-end integration (Sid)
+- [ ] Double check all functions against spec
+- [ ] Permissions finalized
+- [ ] Presentation & materials created
 
 # SourceVault Contract Checklist
 
